@@ -30,7 +30,7 @@ I lived in sad places and spent years on the road, so I always try to build for 
 networks are down, power is intermittent, hardware is sparse, and someone actively wants to harm
 you.
 
-[Open for work](https://dbuho.me/cv) with people and organizations whose mission I can get behind and who need my particular
+[Open for work](https://dbuho.me/cv?utm_source=github&utm_campaign=profile-readme) with people and organizations whose mission I can get behind and who need my particular
 vision.
 I don't know much about AWS or Vercel, nor do I want to.
 But I can build a system that will work when the roof is flooded and the foundation is on fire.
