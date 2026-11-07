@@ -36,3 +36,5 @@ I don't know much about AWS or Vercel, nor do I want to.
 But I can build a system that will work when the roof is flooded and the foundation is on fire.
 
 P.S. I do less dramatic shit too.
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=damian-buho&theme=ayu&hide_border=true&hide_title=true&border_radius=0&icon_color=d5c8a0&text=d5c8a0&bg=0d0d0d)
